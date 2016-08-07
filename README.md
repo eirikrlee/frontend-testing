@@ -15,7 +15,7 @@
    - http://thejsguy.com/2015/01/12/jasmine-vs-mocha-chai-and-sinon.html
 
 
-## Functional Testing
+## Functional Testing / End to end testing
 ensure that the app works as expected from the user’s perspective. Assertions primarily test the user interface.
 
 ### Tools
