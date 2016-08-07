@@ -15,7 +15,7 @@ When it comes to testing in JavaScript, I would say that there are two types of 
    - **Chai** - for assertions etc
    - **Sinon** - for test doubles etc
    - **Karma** - a browser test runner 
-- **Jest**
+- **Jest** - by  Facebook, built on top of Jasmine
     
    #### Links 
    - http://thejsguy.com/2015/01/12/jasmine-vs-mocha-chai-and-sinon.html
@@ -28,7 +28,7 @@ ensure that the app works as expected from the user’s perspective. Assertions 
 ###Tools
 - **Selenium**
 - **CasperJS / PhantomJS**
-
+- **nightwatch.js**
 
    ####Links
    http://www.algoworks.com/blog/choosing-your-automated-testing-frameworks-phantomjscasperjs-vs-selenium/
@@ -42,10 +42,14 @@ ensure that the app works as expected from the user’s perspective. Assertions 
 ensure that component collaborations work as expected. Assertions may test component API, UI, or side-effects (such as database I/O, logging, etc…)
 
 ## Other Tests
-## CSS Regression Testing
 
+## CSS Regression Testing
 ### Tools
 - **BackstopJS**
+
+## Smoke Tests
+It’s important to maintain a suite of automated functional tests that act like smoke tests for your newly deployed releases. Test all the critical functionality in your app: The stuff that most users will encounter in a typical session.
+
 
 https://www.sitepoint.com/javascript-testing-unit-functional-integration/
 http://stackoverflow.com/questions/11741738/frontend-testing-what-and-how-to-test-and-what-tool-to-use
