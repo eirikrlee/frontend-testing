@@ -31,6 +31,8 @@ ensure that the app works as expected from the user’s perspective. Assertions 
 
 ###Tools
 - **Selenium**
+- **Watir**
+- **Cucumber - Cucumber is a software tool that computer programmers use for testing other software. It runs automated acceptance tests written in a behavior-driven development (BDD) style
 - **CasperJS / PhantomJS**
 - **nightwatch.js**
 
