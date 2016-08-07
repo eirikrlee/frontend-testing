@@ -1,4 +1,4 @@
-# Front End Testing  
+# Front End Testing - Work in Progress 
 When it comes to testing in JavaScript, I would say that there are two types of tests: unit tests and end to end tests, which are also referred to as integration tests or functional tests depending on who you talk to and what articles you read. 
 
 ## Unit Testing
@@ -58,6 +58,9 @@ It’s important to maintain a suite of automated functional tests that act like
 
 
 **General Intro** https://www.sitepoint.com/javascript-testing-unit-functional-integration/
+
 **Opinion on both types of tests** - http://stackoverflow.com/questions/11741738/frontend-testing-what-and-how-to-test-and-what-tool-to-use
+
 https://www.toptal.com/react/how-react-components-make-ui-testing-easy
+
 http://martinfowler.com/bliki/TestPyramid.html
