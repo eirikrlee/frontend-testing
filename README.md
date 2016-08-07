@@ -14,7 +14,8 @@ When it comes to testing in JavaScript, I would say that there are two types of 
 - **Mocha**:  a test runner, use in conjunction with below
    - **Chai** - for assertions etc
    - **Sinon** - for test doubles etc
-   - **Karma** - a browser test runner 
+   - **Karma** - a browser test runner
+   - **Chutzpah* - a test runner
 - **Tape** - 
 - **Jest** - by  Facebook, built on top of Jasmine
     
@@ -56,7 +57,7 @@ ensure that component collaborations work as expected. Assertions may test compo
 It’s important to maintain a suite of automated functional tests that act like smoke tests for your newly deployed releases. Test all the critical functionality in your app: The stuff that most users will encounter in a typical session.
 
 
-https://www.sitepoint.com/javascript-testing-unit-functional-integration/
-http://stackoverflow.com/questions/11741738/frontend-testing-what-and-how-to-test-and-what-tool-to-use
+**General Intro** https://www.sitepoint.com/javascript-testing-unit-functional-integration/
+**Opinion on both types of tests** - http://stackoverflow.com/questions/11741738/frontend-testing-what-and-how-to-test-and-what-tool-to-use
 https://www.toptal.com/react/how-react-components-make-ui-testing-easy
 http://martinfowler.com/bliki/TestPyramid.html
