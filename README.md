@@ -41,7 +41,9 @@ ensure that the app works as expected from the user’s perspective. Assertions 
 ## Integration Testing
 ensure that component collaborations work as expected. Assertions may test component API, UI, or side-effects (such as database I/O, logging, etc…)
 
+
 ## Other Tests
+
 
 ## CSS Regression Testing
 ### Tools
