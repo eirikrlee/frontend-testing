@@ -4,12 +4,16 @@
    - Unit tests ensure that individual components of the app work as expected. Assertions test the component API.  (quality of ingredients using cooking analogy)
    - Realtime developer feedback
 
-
-* [AngularJS] - HTML enhanced for web apps!
+### tools
+* Karma
 
 
 ## Functional Testing
 ensure that the app works as expected from the user’s perspective. Assertions primarily test the user interface.
+
+### Tools
+- Selenium
+- CasperJS
 
 (food doesn't taste like crap using cooking analogy)
 
