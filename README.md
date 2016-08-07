@@ -18,10 +18,11 @@ When it comes to testing in JavaScript, I would say that there are two types of 
 - **Tape** - 
 - **Jest** - by  Facebook, built on top of Jasmine
     
-   #### Links 
-   - http://thejsguy.com/2015/01/12/jasmine-vs-mocha-chai-and-sinon.html
-   - http://stackoverflow.com/questions/26032124/karma-vs-testing-framework-jasmine-mocha-qunit
-   - https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.csqt37otm
+#### Links 
+- http://thejsguy.com/2015/01/12/jasmine-vs-mocha-chai-and-sinon.html
+- http://stackoverflow.com/questions/26032124/karma-vs-testing-framework-jasmine-mocha-qunit
+- https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.csqt37otm
+- **Proponent of Unit testing over functional** - http://martinfowler.com/bliki/TestPyramid.html
 
 
 ## Functional Testing / End to end testing
@@ -32,10 +33,10 @@ ensure that the app works as expected from the user’s perspective. Assertions 
 - **CasperJS / PhantomJS**
 - **nightwatch.js**
 
-   ####Links
-   http://www.algoworks.com/blog/choosing-your-automated-testing-frameworks-phantomjscasperjs-vs-selenium/
-   https://www.helpscout.net/blog/functional-testing-casperjs/
-   http://thejsguy.com/2015/02/28/end-to-end-testing-with-phantomsjs-and-casperjs.html
+####Links
+- http://www.algoworks.com/blog/choosing-your-automated-testing-frameworks-phantomjscasperjs-vs-selenium/
+- **Proponent of Functoinal Testing over Unit** https://www.helpscout.net/blog/functional-testing-casperjs/
+- http://thejsguy.com/2015/02/28/end-to-end-testing-with-phantomsjs-and-casperjs.html
 
 
 (food doesn't taste like crap using cooking analogy)
