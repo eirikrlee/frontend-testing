@@ -59,10 +59,13 @@ ensure that component collaborations work as expected. Assertions may test compo
 It’s important to maintain a suite of automated functional tests that act like smoke tests for your newly deployed releases. Test all the critical functionality in your app: The stuff that most users will encounter in a typical session.
 
 
-**General Intro** https://www.sitepoint.com/javascript-testing-unit-functional-integration/
+**General Intro** 
+https://www.sitepoint.com/javascript-testing-unit-functional-integration/
+http://www.slideshare.net/sethmcl/testing-web-apps-33612391
 
 **Opinion on both types of tests** - http://stackoverflow.com/questions/11741738/frontend-testing-what-and-how-to-test-and-what-tool-to-use
+http://martinfowler.com/bliki/TestPyramid.html
 
+**mMsc**
 https://www.toptal.com/react/how-react-components-make-ui-testing-easy
 
-http://martinfowler.com/bliki/TestPyramid.html
