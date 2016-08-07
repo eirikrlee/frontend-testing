@@ -15,11 +15,13 @@ When it comes to testing in JavaScript, I would say that there are two types of 
    - **Chai** - for assertions etc
    - **Sinon** - for test doubles etc
    - **Karma** - a browser test runner 
+- **Tape** - 
 - **Jest** - by  Facebook, built on top of Jasmine
     
    #### Links 
    - http://thejsguy.com/2015/01/12/jasmine-vs-mocha-chai-and-sinon.html
    - http://stackoverflow.com/questions/26032124/karma-vs-testing-framework-jasmine-mocha-qunit
+   - https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4#.csqt37otm
 
 
 ## Functional Testing / End to end testing
@@ -56,3 +58,4 @@ It’s important to maintain a suite of automated functional tests that act like
 https://www.sitepoint.com/javascript-testing-unit-functional-integration/
 http://stackoverflow.com/questions/11741738/frontend-testing-what-and-how-to-test-and-what-tool-to-use
 https://www.toptal.com/react/how-react-components-make-ui-testing-easy
+http://martinfowler.com/bliki/TestPyramid.html
