@@ -4,6 +4,7 @@ When it comes to testing in JavaScript, I would say that there are two types of 
 ## Unit Testing
    - Unit tests ensure that individual components of the app work as expected. Assertions test the component API.  (quality of ingredients using cooking analogy)
    - Realtime developer feedback
+   - 
    ![Unit Testing Eg](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/04/1461566883dev-console-animated-small.gif)
 
 ### Tools
