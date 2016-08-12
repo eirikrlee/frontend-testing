@@ -66,6 +66,8 @@ http://www.slideshare.net/sethmcl/testing-web-apps-33612391
 **Opinion on both types of tests** - http://stackoverflow.com/questions/11741738/frontend-testing-what-and-how-to-test-and-what-tool-to-use
 http://martinfowler.com/bliki/TestPyramid.html
 
-**mMsc**
+**misc**
 https://www.toptal.com/react/how-react-components-make-ui-testing-easy
+
+https://getpocket.com/a/read/649209858
 
