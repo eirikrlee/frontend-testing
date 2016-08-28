@@ -69,5 +69,5 @@ http://martinfowler.com/bliki/TestPyramid.html
 **misc**
 https://www.toptal.com/react/how-react-components-make-ui-testing-easy
 
-https://getpocket.com/a/read/649209858
+http://www.slideshare.net/sethmcl/testing-web-apps-33612391
 
