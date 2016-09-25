@@ -12,8 +12,8 @@ When it comes to testing in JavaScript, I would say that there are two types of 
 
 - **Jasmin**:  has almost everything built into it including assertions/expectations and test double utilities 
 - **Mocha**:  a test runner, use in conjunction with below
-   - **Chai** - for assertions etc
-   - **Sinon** - for test doubles etc
+   - **Chai** - for assertions  i.e. assert, should, expect
+   - **Sinon** - for test doubles i.e. spies, stubs, mocks
    - **Karma** - a browser test runner
    - **Chutzpah* - a test runner
 - **Tape** - 
